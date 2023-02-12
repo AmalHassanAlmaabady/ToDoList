@@ -1,13 +1,8 @@
-//
-//  ToDoListAssignmentUITestsLaunchTests.swift
-//  ToDoListAssignmentUITests
-//
-//  Created by Eman on 06/05/1444 AH.
-//
+
 
 import XCTest
 
-final class ToDoListAssignmentUITestsLaunchTests: XCTestCase {
+final class ToDoListUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

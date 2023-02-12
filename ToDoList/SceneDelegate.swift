@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  ToDoListAssignment
-//
-//  Created by Eman on 06/05/1444 AH.
-//
+
 
 import UIKit
 

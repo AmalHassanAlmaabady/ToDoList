@@ -1,13 +1,7 @@
-//
-//  ToDoListAssignmentUITests.swift
-//  ToDoListAssignmentUITests
-//
-//  Created by Eman on 06/05/1444 AH.
-//
 
 import XCTest
 
-final class ToDoListAssignmentUITests: XCTestCase {
+final class ToDoListUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
